@@ -20,11 +20,11 @@ Imagine yourself as Peter Pandey, and do the following tasks:
 •	You can use additional data based on your own research to support your recommendations
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Food-and-Beverages-Data-Analysis/assets/97782632/6fafaa54-8997-401a-8d3e-a72aa71059bc)
+![Data Model](Images/DataModel.png)
 
 ## Dashboard
-![Page 1](https://github.com/harshmehta01/Food-and-Beverages-Data-Analysis/assets/97782632/511633b7-bb6b-4cd5-846a-8036ab7e107c)
-![Page 2](https://github.com/harshmehta01/Food-and-Beverages-Data-Analysis/assets/97782632/c0d12ed0-6491-4c97-b402-c638fd24cb00)
+![Page 1](Images/Page1.png)
+![Page 2](Images/Page2.png)
 
 ## Some Important insights from the dashboard:
 •	Energy drinks are more popular among the male population, followed by females and the non-binary population.
